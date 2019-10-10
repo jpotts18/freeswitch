@@ -1,5 +1,6 @@
 #                                               -*- Autoconf -*-
 # Process this file with autoconf to produce a configure script.
+# What's up Dawg
 
 # Must change all of the below together
 # For a release, set revision for that tagged release as well and uncomment
